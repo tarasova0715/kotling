@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Attestation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="goorle">Goorle</string>
+    <string name="yandex">Yandex</string>
+    <string name="mail">Mail</string>
+    <string name="rambler">Rambler</string>
+    <string name="yahoo">Yahoo!</string>
+    <string name="developers">developers</string>
+    <string name="browsers">Browsers</string>
+    <string name="about">about</string>
+</resources>

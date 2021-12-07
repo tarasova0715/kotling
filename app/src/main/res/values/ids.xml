@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="googleButton" type="id">googleButton</item>
+    <item name="yandexButton" type="id">yandexButton</item>
+    <item name="mailButton" type="id">mailButton</item>
+    <item name="ramblerButton" type="id">ramblerButton</item>
+    <item name="yahooButton" type="id">yahooButton</item>
+</resources>

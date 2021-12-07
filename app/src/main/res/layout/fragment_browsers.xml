@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BrowsersFragment"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <Button
+        android:id="@+id/Google"
+        android:text="@string/goorle"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="200dp"
+        />
+
+    <Button
+        android:id="@+id/Yandex"
+        android:text="@string/yandex"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        />
+
+    <Button
+        android:id="@+id/Mail"
+        android:text="@string/mail"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        />
+
+    <Button
+        android:id="@+id/Rambler"
+        android:text="@string/rambler"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        />
+
+    <Button
+        android:id="@+id/Yahoo"
+        android:text="@string/yahoo"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        />
+
+</LinearLayout>
